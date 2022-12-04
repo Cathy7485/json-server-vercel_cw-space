@@ -4,23 +4,6 @@
     "account": "admin",
     "password": "??12345"
   }],
-  "spaceImg": [
-    {
-      "id": 1,
-      "title": "共享辦公空間",
-      "imgUrl": ""
-    },
-    {
-      "id": 2,
-      "title": "獨立辦公室",
-      "imgUrl": ""
-    },
-    {
-      "id": 3,
-      "title": "會議室空間",
-      "imgUrl": ""
-    }
-  ],
   "posts": [
     {
       "title": "預計6/28(三)上午10:30~11:00 清洗冷氣濾網，造成不便敬請見諒！",
