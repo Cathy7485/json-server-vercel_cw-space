@@ -57,14 +57,14 @@
   "spaces": [
     {
       "name": "共享辦公空間",
-			"imgUrl": "https://github.com/Cathy7485/CW-space/blob/main/images/plan01.jpg?raw=true",
+			"imgUrl": "https://github.com/Cathy7485/CW-space/blob/main/images/index-plan01.jpg?raw=true",
       "open": "週一至週五 8:00-18:00（不含例假日)",
       "price":["單日體驗 NT 300 / 天","單月方案 NT3,500 / 月"],
       "info": "獨立寬敞座位，穩定高速wifi、獨立插座，適合SOHO族、一人公司者，公共空間設備皆可自由使用"
     },
     {
       "name": "獨立辦公空間",
-			"imgUrl": "https://github.com/Cathy7485/CW-space/blob/main/images/plan02.jpg?raw=true",
+			"imgUrl": "https://github.com/Cathy7485/CW-space/blob/main/images/index-plan02.jpg?raw=true",
       "open": "週一至週五 8:00-21:00（不含例假日)",
       "type": ["空間A1","空間B1","空間C1"],
       "capacity": [6,7,10],
@@ -73,7 +73,7 @@
     },
     {
       "name": "會議室空間",
-			"imgUrl": "https://github.com/Cathy7485/CW-space/blob/main/images/plan03.jpg?raw=true",
+			"imgUrl": "https://github.com/Cathy7485/CW-space/blob/main/images/index-plan03.jpg?raw=true",
       "open": "週一至週五 8:00-21:00（不含例假日)",
       "type": ["空間A","空間B"],
       "price":"單日使用 NT 500/小時 (每次 2小時起租)",
