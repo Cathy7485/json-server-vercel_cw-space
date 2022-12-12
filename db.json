@@ -139,6 +139,38 @@
       "time":"11:00"
     }
   ],
+  "booking":[
+    {
+      "id": 1,
+      "name": "陳釋平",
+      "company": "元欣小農",
+      "phone": "0955-333-666",
+      "email": "yuanShin@gmail.com",
+      "space": "共享辦公空間",
+      "appointment": "1666573261",
+      "seat": "8"
+    },
+    {
+      "id": 2,
+      "name": "許小白",
+      "company": "漆漆手作工作室",
+      "phone": "0977-123-666",
+      "email": "chichi@gmail.com",
+      "space": "獨立辦公空間",
+      "appointment": "1666573261",
+      "room": "空間A"
+    },
+    {
+      "id": 3,
+      "name": "許小白",
+      "company": "漆漆手作工作室",
+      "phone": "0977-123-666",
+      "email": "chichi@gmail.com",
+      "space": "會議室空間",
+      "appointment": "1666573261",
+      "room": "空間B"
+    }
+  ],
   "comments":[
     {
       "id":1,
