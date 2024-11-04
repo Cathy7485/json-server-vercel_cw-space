@@ -58,6 +58,7 @@
   ],
   "spaces": [
     {
+      "id": 1,
       "name": "共享辦公空間",
       "imgUrl": [
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/shared01.jpg?raw=true",
@@ -77,6 +78,7 @@
       "info": "獨立寬敞座位，穩定高速wifi、獨立插座，適合SOHO族、一人公司者，公共空間設備皆可自由使用"
     },
     {
+      "id": 2,
       "name": "獨立辦公空間",
       "imgUrl": [
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/office01.jpg?raw=true",
@@ -111,6 +113,7 @@
       "info": "獨立寬敞座位，穩定高速wifi、獨立插座，每個座位皆享有大桌面、可上鎖辦公抽屜，人體工學減壓電腦椅，讓您舒服久坐辦公，公共空間設備皆可自由使用"
     },
     {
+      "id": 3,
       "name": "會議室空間",
       "imgUrl":[ 
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/meeting01.jpg?raw=true",
