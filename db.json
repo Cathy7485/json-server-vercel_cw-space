@@ -60,6 +60,7 @@
     {
       "id": 1,
       "name": "共享辦公空間",
+      "en-name": "Coworking",
       "imgUrl": [
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/shared01.jpg?raw=true",
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/shared02.jpg?raw=true"
@@ -75,11 +76,16 @@
           "month": 3500
         }
       ],
+      "space": {
+        "type": "seat",
+        "qty": 12
+      },
       "info": "獨立寬敞座位，穩定高速wifi、獨立插座，適合SOHO族、一人公司者，公共空間設備皆可自由使用"
     },
     {
       "id": 2,
       "name": "獨立辦公空間",
+      "en-name": "Cubicle",
       "imgUrl": [
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/office01.jpg?raw=true",
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/office01-1.jpg?raw=true",
@@ -90,32 +96,45 @@
         "weekdays": "8:00~21:00"
       },
       "type": [
-        "A1",
-        "B1",
-        "C1"
-      ],
-      "capacity": [
-        6,
-        7,
-        10
+        {
+          "sort": "A",
+          "capacity": 6
+        },
+        {
+          "sort": "B",
+          "capacity": 7
+        },
+        {
+          "sort": "C",
+          "capacity": 10
+        }
       ],
       "price": [
         {
           "month": [
             {
-              "A1": 6000,
-              "B1": 6000,
+              "A1": 6000
+            },
+            {
+              "B1": 6000
+            },
+            {
               "C1": 10000
             }
           ]
         }
       ],
+      "space": {
+        "type": "room",
+        "qty": 3
+      },
       "info": "獨立寬敞座位，穩定高速wifi、獨立插座，每個座位皆享有大桌面、可上鎖辦公抽屜，人體工學減壓電腦椅，讓您舒服久坐辦公，公共空間設備皆可自由使用"
     },
     {
       "id": 3,
       "name": "會議室空間",
-      "imgUrl":[ 
+      "en-name": "Meeting Room",
+      "imgUrl": [
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/meeting01.jpg?raw=true",
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/meeting02.jpg?raw=true",
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/meeting03.jpg?raw=true",
@@ -125,16 +144,63 @@
         "weekdays": "8:00~21:00"
       },
       "type": [
-        "A",
-        "B"
+        {
+          "sort": "A",
+          "capacity": 6
+        },
+        {
+          "sort": "B",
+          "capacity": 18
+        }  
       ],
       "price": [
         {
           "hour": 500
         }
       ],
+      "space": {
+        "type": "room",
+        "qty": 2
+      },
       "info": "獨立寬敞座位，穩定高速wifi，簡報投影設備，可連接電腦或手機，專屬獨立隔音空間，會議簡報更專注",
       "notice": "每次 2小時起租"
+    },
+    {
+      "id": 4,
+      "name": "休息茶水間",
+      "en-name": "Pantry room",
+      "imgUrl": [
+        "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/pantry-banner.jpg?raw=true",
+        "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/pantry-coffee.jpg?raw=true"
+      ],
+      "open": {
+        "weekdays": "8:00~21:00"
+      },
+      "price": [
+        {
+          "free": 0
+        }
+      ],
+      "info": "自動磨豆咖啡機、各類茶包 無限供應，冷熱飲水機，微波爐，變頻冰箱，寬敞流理臺"
+    },
+    {
+      "id": 5,
+      "name": "沙發休閒空間",
+      "en-name": "Common area",
+      "imgUrl": [
+        "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/pantry-room.jpg?raw=true",
+        "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/pantry-sofa.jpg?raw=true",
+        "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/pantry-sofa2.jpg?raw=true"
+      ],
+      "open": {
+        "weekdays": "8:00~21:00"
+      },
+      "price": [
+        {
+          "free": 0
+        }
+      ],
+      "info": "多功能沙發區，下午茶休息區，液晶大螢幕，觀看新聞好舒服，穩定高速wifi，接待客戶好所在"
     }
   ],
   "fqa": [
