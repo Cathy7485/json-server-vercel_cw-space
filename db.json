@@ -70,7 +70,7 @@
       },
       "type": [
         {
-          "sort": "1",
+          "sort": "01",
           "capacity": 1,
           "price":{
             "day": 300,
@@ -78,7 +78,7 @@
           }
         },
         {
-          "sort": "2",
+          "sort": "02",
           "capacity": 1,
           "price":{
             "day": 300,
@@ -86,7 +86,7 @@
           }
         },
         {
-          "sort": "3",
+          "sort": "03",
           "capacity": 1,
           "price":{
             "day": 300,
@@ -94,7 +94,7 @@
           }
         },
         {
-          "sort": "4",
+          "sort": "04",
           "capacity": 1,
           "price":{
             "day": 300,
@@ -102,7 +102,7 @@
           }
         },
         {
-          "sort": "5",
+          "sort": "05",
           "capacity": 1,
           "price":{
             "day": 300,
@@ -110,7 +110,7 @@
           }
         },
         {
-          "sort": "6",
+          "sort": "06",
           "capacity": 1,
           "price":{
             "day": 300,
@@ -118,7 +118,7 @@
           }
         },
         {
-          "sort": "7",
+          "sort": "07",
           "capacity": 1,
           "price":{
             "day": 300,
@@ -126,7 +126,7 @@
           }
         },
         {
-          "sort": "8",
+          "sort": "08",
           "capacity": 1,
           "price":{
             "day": 300,
@@ -134,7 +134,7 @@
           }
         },
         {
-          "sort": "9",
+          "sort": "09",
           "capacity": 1,
           "price":{
             "day": 300,
@@ -187,21 +187,21 @@
       },
       "type": [
         {
-          "sort": "A",
+          "sort": "A1",
           "capacity": 6,
           "price":{
             "month": 6000
           }
         },
         {
-          "sort": "B",
+          "sort": "B1",
           "capacity": 7,
           "price":{
             "month": 6000
           }
         },
         {
-          "sort": "C",
+          "sort": "C1",
           "capacity": 10,
           "price":{
             "month": 10000
@@ -229,14 +229,14 @@
       },
       "type": [
         {
-          "sort": "A",
+          "sort": "M1",
           "capacity": 6,
           "price":{
             "hour": 500
           }
         },
         {
-          "sort": "B",
+          "sort": "M2",
           "capacity": 18,
           "price":{
             "hour": 500
