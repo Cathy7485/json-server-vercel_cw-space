@@ -68,12 +68,102 @@
       "open": {
         "weekdays": "8:00~18:00"
       },
-      "price": [
+      "type": [
         {
-          "day": 300
+          "sort": "1",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
         },
         {
-          "month": 3500
+          "sort": "2",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
+        },
+        {
+          "sort": "3",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
+        },
+        {
+          "sort": "4",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
+        },
+        {
+          "sort": "5",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
+        },
+        {
+          "sort": "6",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
+        },
+        {
+          "sort": "7",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
+        },
+        {
+          "sort": "8",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
+        },
+        {
+          "sort": "9",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
+        },
+        {
+          "sort": "10",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
+        },
+        {
+          "sort": "11",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
+        },
+        {
+          "sort": "12",
+          "capacity": 1,
+          "price":{
+            "day": 300,
+            "month": 3500
+          }
         }
       ],
       "space": {
@@ -98,30 +188,24 @@
       "type": [
         {
           "sort": "A",
-          "capacity": 6
+          "capacity": 6,
+          "price":{
+            "month": 6000
+          }
         },
         {
           "sort": "B",
-          "capacity": 7
+          "capacity": 7,
+          "price":{
+            "month": 6000
+          }
         },
         {
           "sort": "C",
-          "capacity": 10
-        }
-      ],
-      "price": [
-        {
-          "month": [
-            {
-              "A1": 6000
-            },
-            {
-              "B1": 6000
-            },
-            {
-              "C1": 10000
-            }
-          ]
+          "capacity": 10,
+          "price":{
+            "month": 10000
+          }
         }
       ],
       "space": {
@@ -146,17 +230,18 @@
       "type": [
         {
           "sort": "A",
-          "capacity": 6
+          "capacity": 6,
+          "price":{
+            "hour": 500
+          }
         },
         {
           "sort": "B",
-          "capacity": 18
+          "capacity": 18,
+          "price":{
+            "hour": 500
+          }
         }  
-      ],
-      "price": [
-        {
-          "hour": 500
-        }
       ],
       "space": {
         "type": "room",
@@ -176,10 +261,14 @@
       "open": {
         "weekdays": "8:00~21:00"
       },
-      "price": [
+      "type": [
         {
-          "free": 0
-        }
+          "sort": "",
+          "capacity": 0,
+          "price":{
+            "free": 0
+          }
+        } 
       ],
       "info": "自動磨豆咖啡機、各類茶包 無限供應，冷熱飲水機，微波爐，變頻冰箱，寬敞流理臺"
     },
@@ -195,10 +284,14 @@
       "open": {
         "weekdays": "8:00~21:00"
       },
-      "price": [
+      "type": [
         {
-          "free": 0
-        }
+          "sort": "",
+          "capacity": 0,
+          "price":{
+            "free": 0
+          }
+        } 
       ],
       "info": "多功能沙發區，下午茶休息區，液晶大螢幕，觀看新聞好舒服，穩定高速wifi，接待客戶好所在"
     }
