@@ -60,7 +60,7 @@
     {
       "id": 1,
       "name": "共享辦公空間",
-      "en-name": "Coworking",
+      "enName": "Coworking",
       "imgUrl": [
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/shared01.jpg?raw=true",
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/shared02.jpg?raw=true"
@@ -175,7 +175,7 @@
     {
       "id": 2,
       "name": "獨立辦公空間",
-      "en-name": "Cubicle",
+      "enName": "Cubicle",
       "imgUrl": [
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/office01.jpg?raw=true",
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/office01-1.jpg?raw=true",
@@ -217,7 +217,7 @@
     {
       "id": 3,
       "name": "會議室空間",
-      "en-name": "Meeting Room",
+      "enName": "Meeting Room",
       "imgUrl": [
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/meeting01.jpg?raw=true",
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/meeting02.jpg?raw=true",
@@ -253,7 +253,7 @@
     {
       "id": 4,
       "name": "休息茶水間",
-      "en-name": "Pantry room",
+      "enName": "Pantry room",
       "imgUrl": [
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/pantry-banner.jpg?raw=true",
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/pantry-coffee.jpg?raw=true"
@@ -275,7 +275,7 @@
     {
       "id": 5,
       "name": "沙發休閒空間",
-      "en-name": "Common area",
+      "enName": "Common area",
       "imgUrl": [
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/pantry-room.jpg?raw=true",
         "https://github.com/Cathy7485/CW-space-vue/blob/main/src/assets/images/pantry-sofa.jpg?raw=true",
