@@ -326,36 +326,39 @@
   "reserves": [
     {
       "id": 1,
-      "name": "林雙雙",
+      "appointment": "1666249321",
       "company": "友程工程股份有限公司",
+      "name": "林雙雙",
       "phone": "0933-789-123",
       "email": "yoChen@gmail.com",
+      "plan": "month",
       "space": "獨立辦公空間",
-      "appointment": "1666249321",
-      "time": "9:00"
+      "time": "8:00~18:00"
     },
     {
       "id": 2,
-      "name": "許嚴安",
+      "appointment": "1666335600",
       "company": "獨信律師事務所",
+      "name": "許嚴安",
       "phone": "0945-444-945",
       "email": "yanAnLawyer@gmail.com",
+      "plan": "day",
       "space": "共享辦公空間",
-      "appointment": "1666335600",
       "time": "15:00"
     },
     {
       "id": 3,
-      "name": "趙士誠",
+      "appointment": "1666573261",
       "company": "元典設計",
+      "name": "趙士誠",
       "phone": "0966-741-852",
       "email": "yuanDian@gmail.com",
+      "plan": "month",
       "space": "獨立辦公空間",
-      "appointment": "1666573261",
-      "time": "11:00"
+      "time": "8:00~18:00"
     }
   ],
-  "booking": [
+  "visit": [
     {
       "id": 1,
       "name": "陳釋平",
@@ -364,7 +367,7 @@
       "email": "yuanShin@gmail.com",
       "space": "共享辦公空間",
       "appointment": "1666573261",
-      "seat": "8"
+      "time":"15:00"
     },
     {
       "id": 2,
@@ -374,7 +377,7 @@
       "email": "chichi@gmail.com",
       "space": "獨立辦公空間",
       "appointment": "1666573261",
-      "room": "A"
+      "time":"10:00"
     },
     {
       "id": 3,
@@ -384,7 +387,7 @@
       "email": "chichi@gmail.com",
       "space": "會議室空間",
       "appointment": "1666573261",
-      "room": "B"
+      "time":"14:00"
     }
   ],
   "comments": [
