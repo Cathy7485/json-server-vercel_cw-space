@@ -333,6 +333,7 @@
       "email": "yoChen@gmail.com",
       "plan": "month",
       "space": "獨立辦公空間",
+      "kind": "A1",
       "time": "08:00-18:00"
     },
     {
@@ -344,6 +345,7 @@
       "email": "yanAnLawyer@gmail.com",
       "plan": "day",
       "space": "共享辦公空間",
+      "kind": "07",
       "time": "15:00"
     },
     {
@@ -355,6 +357,7 @@
       "email": "yuanDian@gmail.com",
       "plan": "month",
       "space": "獨立辦公空間",
+      "kind": "C1",
       "time": "08:00-18:00"
     }
   ],
