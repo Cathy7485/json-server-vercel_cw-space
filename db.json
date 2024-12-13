@@ -1,9 +1,10 @@
 {
   "users": [
     {
-      "id": 1,
-      "account": "admin",
-      "password": "??12345"
+      "email": "cathy141153@gmail.com",
+      "password": "$2a$10$XNqevq20uQKNcpBjACsGZuobfXXlGayyouS8CjfkP.cWtCPO6YCfS",
+      "username": "cathy",
+      "id": 1
     }
   ],
   "posts": [
