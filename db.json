@@ -5,6 +5,12 @@
       "password": "$2a$10$XNqevq20uQKNcpBjACsGZuobfXXlGayyouS8CjfkP.cWtCPO6YCfS",
       "username": "cathy",
       "id": 1
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$mqKLZ42Hse1LHKd16Ic2aeySsYYq2MQWlezqu1ihwK3Kb0jBadQ6K",
+      "username": "測試人員",
+      "id": 2
     }
   ],
   "posts": [
